@@ -1,0 +1,24 @@
+.formsBox {
+	height: 400px;
+	background-color: #FFFFFF;
+	top: 20px;
+    margin-left: 5%;
+    margin-right:5%;
+	position: relative;
+}
+
+#forms_title {
+    color: #008791;
+    text-align: left;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    size: 20px;
+
+}

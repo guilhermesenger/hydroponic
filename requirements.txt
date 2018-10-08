@@ -8,3 +8,4 @@ psycopg2==2.7.1
 static3==0.7.0
 whitenoise==3.2.1
 PyMySQL==0.8.0
+django-heroku==0.3.1
